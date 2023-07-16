@@ -1,0 +1,7 @@
+db_conn.py
+*.drawio
+.vs/
+__pycache__/
+env/
+*.pyproj
+*.sln
